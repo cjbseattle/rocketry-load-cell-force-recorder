@@ -3,6 +3,7 @@ load cell force recorder
 python (idk what version) and arduino ide are required
 
 once downloaded, run install.bat in `/install` and follow the instructions
+
 ---
 to use:
 1. run the `/loadcell/loadcell.ino` file and upload the code to the arduino
