@@ -2,5 +2,5 @@
 
 python loadcell.py
 
-echo.
+echo -------------------------------
 pause
